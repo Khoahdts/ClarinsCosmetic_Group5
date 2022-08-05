@@ -12,9 +12,9 @@ List Of Member
 	3.	Nguyễn Văn Bảo	Student1376118
 	4.	Dương Trung Tâm	Student1376136
 =======================================
-Documenttations:
+Documenttations:https://github.com/Khoahdts/ClarinsCosmetic_Group5/tree/main/Documentations
 =======================================
-Published website:
+Published website:https://khoahdts.github.io/ClarinsCosmetic_Group5
 =======================================
 Thanks you for visit our website
 
