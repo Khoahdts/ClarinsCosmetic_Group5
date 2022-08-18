@@ -14,7 +14,7 @@ List Of Member
 =======================================
 Documenttations:https://github.com/Khoahdts/ClarinsCosmetic_Group5/tree/main/Clarins_Cosmetics
 =======================================
-Published website:https://khoahdts.github.io/ClarinsCosmetic_Group5
+Published website:https://khoahdts.github.io/ClarinsCosmetic_Group5/
 =======================================
 Thanks you for visit our website
 
